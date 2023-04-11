@@ -25,7 +25,7 @@
  body{font-family: 'Dosis', sans-serif;}
 
 .Estilo{
-    background-image: linear-gradient( #cb62c7,#e9b1e7);
+    background-image: linear-gradient( #cb62c7,#ffffff);
     color: white;
     display: flex;
     justify-content: center;
@@ -54,5 +54,13 @@
 }
 .Moda-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 17% 17% 17% 17% 17%;
+}
+.rodape{
+    background-image: linear-gradient( #ffffff,#cb62c7);
+    text-align: center;
+}
+.rodape-imagem{
+    height: 80px;
+    padding: 12px 0;
 }
